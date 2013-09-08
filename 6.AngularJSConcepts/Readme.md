@@ -2,6 +2,6 @@ Objectifs
 =========
 
 - Présentez AngularJS et ses principaux concepts.
-- Essayer d'expliquer la philosophie d'angularJS
+- Essayez d'expliquer la philosophie d'angularJS
 - Complètez le Wiki  [ici](https://github.com/ISTICUniversityOfRennes1/TAACours6WebEngineering/wiki/_pages) avec toutes les ressources que vous avez utilisées. 
 
